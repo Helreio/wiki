@@ -1,5 +1,0 @@
----
-tags:
-  - race
-  - lore
----

@@ -1,2 +1,0 @@
-
-**Aetheric Erosion (alternative names: [[Scorched]], [[Effulgence Ebb]])** manifests as a debilitating affliction of the body and mind, arising from an overexposure to the potent energies of the **[[Cimmerian Conduits]]**. As individuals draw too much magic from these mystical pathways, their very essence begins to deteriorate, leading to profound physical and psychological effects. The erosion cannot be cured, only kept in check by continuous use of elixirs mandated by the Church brewed by aludry artisans.
