@@ -1,0 +1,1 @@
+The language spoken winthin the first [[Azak Nobility|Azak nobles]] of the [[Azak Empire]].

@@ -1,0 +1,16 @@
+- [[Ghinn Blutaxt|White]] arrives in [[Il'shar]] and hides the children.
+- [[Konnrad Lysnov]] finds White and tries to recruit him.
+- Mist comes, survive. Goatman koshmera attacks. 
+- White & Konnrad arrive at the church, there [[Garreth Goddard]] joins them. 
+- They investigate the barracks, soldiers are bearly holding on. They meet the Lord Commander [[Soranna El’var]] & Arcanist [[Thorvir]]. 
+- Second encounter with the goatman koshmera. 
+- They investigate the Count [[Erwil]] estate. Fighting for their life. They find a woman who actives the second part of the ritual. Trapping them into an illusion. 
+- White wakes up in the middle of the square. No powers. Trying to get his bearings. Notices he cannot feel [[Scarlett]] anymore. He's wounds do not heal. Sky is purple. Skyhollow
+- Finds [[Savir]], then together they try to to get to the bottom of this.
+- Konnrad is not within the nightmare. 
+- Only White can see cracks within the illusion, he breaks free with help. Garrett is helping him from the other side. 
+- He wakes in the real world. 
+- break the nightmare? Kill the goatfuck.
+- get Ashrak zweihander. 
+- fight Mael, his avatar. Hp with Scarlett's blood. 
+- he joins Konnrad s brigade to find out more about Scarlett whereabouts.
