@@ -1,3 +1,197 @@
-@use "./variables.scss" as *;
+/* 1. Tell the browser where to find the font file */
+@font-face {
+  font-family: 'Cattedrale';
+  src: url('/static/Cattedrale.woff2') format('woff2'),
+       url('/static/Cattedrale.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
 
-// put your custom CSS here!
+@font-face {
+  font-family: 'Metamorphous';
+  src: url('/static/Metamorphous.woff2') format('woff2'),
+  url('/static/Metamorphous.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Inter';
+  src: url('/static/Inter-Medium.woff2') format('woff2'),
+  url('/static/Inter-Medium.ttf') format('truetype');
+  font-weight: normal;
+  font-style: medium;
+  font-display: swap;
+}
+
+/* --- Font --- */
+@font-face {
+  font-family: 'LibreBaskerville'; /* Name this whatever your font is called */
+  src: url('/static/LibreBaskerville-Regular.woff2') format('woff2'),
+  url('/static/LibreBaskerville-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'LibreBaskerville'; /* Name this whatever your font is called */
+  src: url('/static/LibreBaskerville-Bold.woff2') format('woff2'),
+  url('/static/LibreBaskerville-Bold.ttf') format('truetype');
+  font-weight: normal;
+  font-style: bold;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'LibreBaskerville'; /* Name this whatever your font is called */
+  src: url('/static/LibreBaskerville-Italic.woff2') format('woff2'),
+  url('/static/LibreBaskerville-Italic.ttf') format('truetype');
+  font-weight: normal;
+  font-style: italic;
+  font-display: swap;
+}
+
+
+/* --- Font --- */
+@font-face {
+  font-family: 'Georgia'; /* Name this whatever your font is called */
+  src: url('/static/georgia.woff2') format('woff2'),
+  url('/static/georgia.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Georgia'; /* Name this whatever your font is called */
+  src: url('/static/georgiab.woff2') format('woff2'),
+  url('/static/georgiab.ttf') format('truetype');
+  font-weight: normal;
+  font-style: bold;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Georgia'; /* Name this whatever your font is called */
+  src: url('/static/georgiai.woff2') format('woff2'),
+  url('/static/georgiai.ttf') format('truetype');
+  font-weight: normal;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Georgia'; /* Name this whatever your font is called */
+  src: url('/static/georgiaz.woff2') format('woff2'),
+  url('/static/georgiaz.ttf') format('truetype');
+  font-weight: normal;
+  font-style: bold italic;
+  font-display: swap;
+}
+
+
+:root {
+  --page-title: 'Metamorphous', serif !important;
+  --headerFont: 'Metamorphous', serif !important;
+//  --bodyFont: 'Lora', sans-serif !important;   /* Overwrites page text */
+//  --codeFont: 'LibreBaskerville', monospace !important;    /* Overwrites code blocks */
+}
+
+[data-theme="dark"], :root[saved-theme="dark"], body.dark {
+  p, span, li, article, .page-title, main, div.article {
+    color: #e0e0e0 !important; /* Your preferred Dark Mode text color */
+  }
+}
+
+a,
+a.internal-link,
+a.external-link,
+.markdown-rendered a,
+.article a {
+  /* 1. Normal link color (Change to whatever hex code you like) */
+  color: #9aa3e6 !important; /* Gold: highly visible on dark backgrounds */
+  background: transparent !important; /* Removes any red highlighting background block */
+
+  /* 2. Hover link color */
+  &:hover {
+    color: #6374f2 !important; /* Lighter gold on mouse hover */
+  }
+}
+
+h1.article-title, .article-title, .page-title, h1 {
+  font-family: var(--headerFont) !important;
+}
+
+/* ========================================== */
+/* 3. UNIVERSAL OVERRIDE FALLBACKS            */
+/* ========================================== */
+
+/* --- Headers --- */
+h1, h2, h3, h4 .page-title, .page-header, .desktop, .article-title, .site-title {
+  font-family: 'Metamorphous', serif !important;
+}
+
+.sidebar h2.page-title,
+.sidebar .page-title,
+header h2.page-title a,
+.page-title a {
+  font-family: 'Lora', serif !important;
+  color: #f7c679 !important;
+}
+
+// Corrected Headings Styling (Ensures commas separate all layout scopes)
+h1, h2, h3, h4, h5, h6, article h2, .markdown-preview-view h2 {
+  color: #f7c679 !important;
+}
+
+// Absolute Global Reset: Strips the hand cursor and font shrinking from basic formatting styles
+strong, b, em, i, del, s, strike, mark, .highlight {
+  font-size: 100% !important;        /* Forces the text to stay the exact size of surrounding words */
+  cursor: text !important;          /* Reverts the hand-pointer cursor back to a regular text line cursor */
+  text-decoration: none !important; /* Prevents text from displaying accidental link outlines */
+  pointer-events: auto !important;  /* Stops structural clicks from bleeding out to the background */
+  display: inline !important;       /* Keeps styling tags from snapping into independent lines */
+}
+
+// Restore individual formatting rules so they render their intended designs:
+strong, b {
+  font-weight: 700 !important;      /* True Bold weight */
+}
+
+em, i {
+  font-style: italic !important;    /* True Italics style */
+}
+
+del, s, strike {
+  text-decoration: line-through !important; /* True Strikethrough style */
+}
+
+mark, .highlight {
+  background-color: rgba(247, 198, 121, 0.3) !important; /* Re-applies a subtle background highlight color */
+  color: inherit !important;
+}
+
+a.active, .toc-link.active, .explorer-item.active {
+  background-color: var(--highlight) !important; /* Uses your new HEX highlight color */
+  border-radius: 4px;
+  padding: 2px 6px;
+}
+
+footer p {
+  visibility: hidden;
+  position: relative;
+}
+
+/* Force your own text to take its place */
+footer p::after {
+  content: "Created by Helreio"; /* 💡 Put whatever you want here */
+  visibility: visible;
+  position: absolute;
+  left: 0;
+  right: 0;
+  text-align: left;
+  color: #888888; /* Keeps the text a subtle gray */
+}

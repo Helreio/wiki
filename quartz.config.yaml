@@ -1,13 +1,12 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: Quartz 5
-  pageTitleSuffix: ""
+  pageTitle: Mareth'Sol
   enableSPA: true
-  enablePopovers: true
+  enablePopovers: false
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: wiki.lightinadarkenedworld.com
+  baseUrl: lore.lightinadarkenedworld.com
   ignorePatterns:
     - private
     - templates
@@ -16,31 +15,43 @@ configuration:
     fontOrigin: googleFonts
     cdnCaching: true
     typography:
-      header: Schibsted Grotesk
-      body: Source Sans Pro
-      code: IBM Plex Mono
+      header: Almendra
+      body: Lora
+      code: EB Garamond
     colors:
       lightMode:
-        light: "#faf8f8"
-        lightgray: "#e5e5e5"
-        gray: "#b8b8b8"
-        darkgray: "#4e4e4e"
-        dark: "#2b2b2b"
-        secondary: "#284b63"
-        tertiary: "#84a59d"
-        highlight: rgba(143, 159, 169, 0.15)
-        textHighlight: "#fff23688"
+        light: "#fdfbe6"
+        lightgray: "#f2ebd4"
+        gray: "#b8a383"
+        darkgray: "#4a3c31"
+        dark: "#7a2014"
+        secondary: "#9c2a1b"
+        tertiary: "#cca152"
+        highlight: rgba(204, 161, 82, 0.15)
+        textHighlight: "#d1a0541f"
       darkMode:
-        light: "#161618"
-        lightgray: "#393639"
-        gray: "#646464"
-        darkgray: "#d4d4d4"
-        dark: "#ebebec"
-        secondary: "#7b97aa"
-        tertiary: "#84a59d"
-        highlight: rgba(143, 159, 169, 0.15)
-        textHighlight: "#b3aa0288"
+        light: "#121212"
+        lightgray: "#2d241e"
+        gray: "#756254"
+        darkgray: "#edebeb"
+        dark: "#e35946"
+        secondary: "#ff6f59"
+        tertiary: "#e6b963"
+        highlight: rgba(230, 185, 99, 0.15),
+        textHighlight: "#d1a0542b"
 plugins:
+  - source: github:quartz-community/fonts
+    enabled: true
+    options:
+      fontOrigin: googleFonts
+      title: Almendra
+      body: Lora
+      header: EB Garamond
+      code: JetBrains Mono
+  - source: github:quartz-community/external-quartz-leaflet-map-plugin
+    enabled: false
+    options:
+      enableCopyTool: true
   - source: "@quartz-community/created-modified-date"
     enabled: true
     options:
@@ -78,10 +89,10 @@ plugins:
     enabled: true
     order: 40
   - source: "@quartz-community/table-of-contents"
-    enabled: true
+    enabled: false
     order: 50
     layout:
-      position: right
+      position: left
       priority: 30
   - source: "@quartz-community/crawl-links"
     enabled: true
@@ -106,7 +117,7 @@ plugins:
     enabled: false
     order: 91
   - source: "@quartz-community/roam"
-    enabled: false
+    enabled: true
     order: 92
   - source: "@quartz-community/quartz-fonts"
     enabled: true
@@ -114,8 +125,8 @@ plugins:
     enabled: true
     options:
       theme: its-theme
-      variation: ttrpg-dnd
-      mode: both
+      variation: ttrpg-pathfinder
+      mode: dark
   - source: "@quartz-community/remove-draft"
     enabled: true
   - source: "@quartz-community/explicit-publish"
@@ -145,7 +156,7 @@ plugins:
       enableSiteMap: true
       enableRSS: true
   - source: "@quartz-community/favicon"
-    enabled: true
+    enabled: false
   - source: "@quartz-community/og-image"
     enabled: true
   - source: "@quartz-community/cname"
@@ -157,14 +168,14 @@ plugins:
   - source: "@quartz-community/folder-page"
     enabled: true
   - source: "@quartz-community/tag-page"
-    enabled: true
+    enabled: false
   - source: "@quartz-community/explorer"
-    enabled: true
+    enabled: false
     layout:
       position: left
       priority: 50
   - source: "@quartz-community/graph"
-    enabled: true
+    enabled: false
     layout:
       position: right
       priority: 10
@@ -177,9 +188,9 @@ plugins:
       groupOptions:
         grow: true
   - source: "@quartz-community/backlinks"
-    enabled: true
+    enabled: false
     layout:
-      position: right
+      position: left
       priority: 50
   - source: "@quartz-community/article-title"
     enabled: true
@@ -208,7 +219,7 @@ plugins:
       priority: 30
       group: toolbar
   - source: "@quartz-community/reader-mode"
-    enabled: true
+    enabled: false
     layout:
       position: left
       priority: 35
@@ -230,9 +241,7 @@ plugins:
   - source: "@quartz-community/footer"
     enabled: true
     options:
-      links:
-        GitHub: https://github.com/jackyzha0/quartz
-        Discord Community: https://discord.gg/cRFFHYye7t
+      links: null
     layout:
       position: footer
       priority: 50
@@ -271,12 +280,57 @@ plugins:
     enabled: true
     options:
       enableCopyTool: false
-  - source: "@quartz-community/obsidian-plugin-excalidraw"
+  - source: github:quartz-community/obsidian-plugin-excalidraw
     enabled: true
     options:
       enableInteraction: true
       darkMode: auto
       exportPadding: 20
+    order: 50
+  - source: github:quartz-community/obsidian-flavored-markdown
+    enabled: true
+    options:
+      comments: true
+      highlight: true
+      wikilinks: true
+      callouts: true
+      mermaid: true
+      parseTags: true
+      parseBlockReferences: true
+      enableInHtmlEmbed: false
+      enableYouTubeEmbed: true
+      enableTweetEmbed: true
+      enableVideoEmbed: true
+      enableCheckbox: false
+      enableObsidianUri: true
+    order: 30
+  - source: github:quartz-community/table-of-contents
+    enabled: false
+    options:
+      maxDepth: 4
+      minEntries: 1
+      showByDefault: true
+      collapseByDefault: false
+      layout: modern
+    order: 50
+    layout:
+      position: left
+      priority: 50
+  - source: github:quartz-community/fonts
+    enabled: true
+    options:
+      useThemeFonts: false
+      fontOrigin: googleFonts
+    order: 60
+  - source: "@quartz-community/obsidian-plugin-excalidraw"
+    enabled: true
+    order: 50
+    options: {}
+  - source: github:quartz-community/bases-page
+    enabled: true
+    options:
+      defaultViewType: table
+      linkResolution: shortest
     order: 50
 layout:
   groups:

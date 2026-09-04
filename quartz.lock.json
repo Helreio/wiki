@@ -1,11 +1,47 @@
 {
   "version": "1.0.0",
   "plugins": {
+    "bases-page": {
+      "source": "github:quartz-community/bases-page",
+      "resolved": "https://github.com/quartz-community/bases-page.git",
+      "commit": "db114afd1005669b7440b8770603df767147e200",
+      "installedAt": "2026-08-30T18:07:30.506Z"
+    },
+    "external-quartz-leaflet-map-plugin": {
+      "source": "github:quartz-community/external-quartz-leaflet-map-plugin",
+      "resolved": "https://github.com/quartz-community/external-quartz-leaflet-map-plugin.git",
+      "commit": "6807e4397f2d78cb569c8c15ea55db2b6c1c6b1c",
+      "installedAt": "2026-08-25T10:01:25.277Z"
+    },
+    "fonts": {
+      "source": "github:quartz-community/fonts",
+      "resolved": "https://github.com/quartz-community/fonts.git",
+      "commit": "d8b9a648af8fe07576f04e5c5671f21b97243237",
+      "installedAt": "2026-08-25T05:36:21.748Z"
+    },
+    "obsidian-flavored-markdown": {
+      "source": "github:quartz-community/obsidian-flavored-markdown",
+      "resolved": "https://github.com/quartz-community/obsidian-flavored-markdown.git",
+      "commit": "dc9256d44b903d6188ef432626dd620090b88c3b",
+      "installedAt": "2026-08-21T07:10:50.742Z"
+    },
+    "obsidian-plugin-excalidraw": {
+      "source": "github:quartz-community/obsidian-plugin-excalidraw",
+      "resolved": "https://github.com/quartz-community/obsidian-plugin-excalidraw.git",
+      "commit": "2ec57cdad9555dc0b04b51615fa36c01430dbd89",
+      "installedAt": "2026-08-25T10:01:25.308Z"
+    },
     "quartz-leaflet-bases-plugin": {
       "source": "github:Requiae/quartz-leaflet-bases-plugin",
       "resolved": "https://github.com/Requiae/quartz-leaflet-bases-plugin.git",
       "commit": "48da13cf01ba6d742e616da2e837fd2a9478ac79",
       "installedAt": "2026-08-20T12:57:02.156Z"
+    },
+    "table-of-contents": {
+      "source": "github:quartz-community/table-of-contents",
+      "resolved": "https://github.com/quartz-community/table-of-contents.git",
+      "commit": "02c30261c64610fd0faaa3181263a91d3ff60b45",
+      "installedAt": "2026-08-21T07:13:57.856Z"
     }
   }
 }
