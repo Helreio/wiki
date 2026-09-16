@@ -30,7 +30,7 @@ tldr: Area protection against chosen creature type
 #### Description
 You create a 2-meter radius, 4-meter tall cylinder of magical energy centered on a point on the ground that you can see within range. Glowing sigils appear wherever the cylinder intersects with the floor or other surface.
 
-Choose one or more of the following types of creatures: *celestials, elementals, fiends,* or *undead*. The circle affects a creature of the chosen type in the following ways:
+Choose one or more of the following types of creatures: *[[Celestial|Celestials]], [[Elemental|Elementals]], [[Fiend|Fiends]],* or *[[Undead]]*. The circle affects a creature of the chosen type in the following ways:
 
 - The creature can't willingly enter the cylinder by non-magical means. If the creature tries to use teleportation or interplanar travel to do so, it must first succeed on a *Willpower Saving Throw*.
 - The creature has *Disadvantage* on attack rolls against targets within the cylinder.

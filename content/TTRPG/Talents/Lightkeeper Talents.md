@@ -6,7 +6,8 @@ draft: false
 unlisted: false
 password:
 ---
-==Specialization Talents can only be taken once.==
+==Specialization Talents can only be taken once==
+Talents that have ranks (II, III) requires the previous version of the talent.
 \[p] - passive, \[a] - active  
 
 ## Tier I - 20 Exp 
@@ -18,7 +19,7 @@ password:
 - **\[p] Blessed Healer** - The healing spells you cast on others heal you as well. When you cast an *[[Incantation Spell List|Incantation]]* that restores hit points to a creature other than you, you regain hit points equal to *3 + Faith* used for the cast of the Incantation.
 
 ---
-- **\[a] Effrie’s Eyes** (1/SR) - For one Action Point you channel the power of death. Until the end of your next turn, you know the location of any undead within 12 meters of you that isn't behind total cover and that isn't protected from divination magic. 
+- **\[a] Effrie’s Eyes** (1/SR) - For one Action Point you channel the power of death. Until the end of your next turn, you know the location of any [[Undead]] within 12 meters of you that isn't behind total cover and that isn't protected from divination magic. 
 
 ---
 - **\[a] Warding Flare** - When a creature that you can see within 6 meters of yourself makes an attack roll, you can take a *Reaction* to impose *Disadvantage* on the attack roll, causing light to flare before it hits or misses. 

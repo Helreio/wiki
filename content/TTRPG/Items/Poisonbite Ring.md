@@ -11,7 +11,7 @@ attune: false
 arcane_focus:
 unique:
 component: true
-curse:
+curse: false
 piety:
 rarity: Uncommon
 bonus: "Res: Poison 5"

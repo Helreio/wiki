@@ -28,6 +28,6 @@ tldr: Desecrates the Ground, buffs chosen creature types with temp hp
 **Duration:** 1 minute
 
 #### Description
-Unholy energy spreads outwards from a point you touch on the ground to fill up to a 12-meter radius circle for the duration. The energy spreads around corners. For the duration, choose which creature type from undead, fiends within the circle to have *Advantage* on *Willpower Saving Throws* and *Skill Checks*. Additionally, if they begin their turn in the circle, they gain *2d4 temporary hit points*. Creatures of your choosing suffer *Disadvantage* on *Willpower Saving Throws* and *Skill Checks* while inside the area.
+Unholy energy spreads outwards from a point you touch on the ground to fill up to a 12-meter radius circle for the duration. The energy spreads around corners. For the duration, choose which creature type from [[Undead]], [[Fiend|Fiends]] within the circle to have *Advantage* on *Willpower Saving Throws* and *Skill Checks*. Additionally, if they begin their turn in the circle, they gain *2d4 temporary hit points*. Creatures of your choosing suffer *Disadvantage* on *Willpower Saving Throws* and *Skill Checks* while inside the area.
 
 When the spell ends, the area is tainted by unholy energy and becomes *Desecrated Ground* for 1 hour. If the area contains an altar, shrine, or other permanent fixture devoted to a deity, pantheon, or higher power with ideals vastly different from those represented by the holy symbol used in the casting, it is destroyed.

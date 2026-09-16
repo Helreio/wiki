@@ -22,7 +22,7 @@ set:
 tldr: Spellbook, gives a bonus to Spell Attack & Spell Save DC
 ---
 Rare
-*\[attune by a thaumaturge] (arcane focus) (book)*
+*\[attune by a Thaumaturge] (arcane focus) (book)*
 *+1 to Spell Attack & Spell Save DC's*
 
 #### Description

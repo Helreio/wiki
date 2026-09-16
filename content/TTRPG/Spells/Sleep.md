@@ -17,7 +17,7 @@ components:
   - M (a pinch of sand)
 duration: 1 minute
 sustained: false
-tier: I
+tier: II
 damage_type:
 conditions:
   - Incapacitated
@@ -36,3 +36,5 @@ tldr: AoE Sleep for 1 minute
 Each creature of your choice in a 1-meter radius Sphere centered on a point within range must succeed on a *Willpower Saving Throw* or have the *[[Conditions#Incapacitated|Incapacitated]]* condition until the end of its next turn, at which point it must repeat the save. If the target fails the second save, the target has the *[[Conditions#Unconscious|Unconscious]]* condition for the duration. The spell ends on a target if it takes damage or someone uses one Action Point to shake it out of the spell's effect.
 
 Creatures that don't sleep or that have Immunity to the *[[Conditions#Charmed|Charmed]]* condition automatically succeed on saves against this spell.
+
+**Empower.** You can increase the radius by 1 meter for each 2 additional lytel spent, up to your *Intelligence Modifier*, when casting the spell. 

@@ -43,9 +43,9 @@ Intelligence measures mental acuity, accuracy of recall, the ability to reason a
 - ***Survival** (Forage, Animal Handling, Tracking & Nature)*
 
 ## Aetheric Erosion (AE) 
-Aetheric Erosion is gained from touching [[Cimmerian Conduits]] or being near a [[Cruciable]].
+Aetheric Erosion is gained from touching [[Cimmerian Conduits]] or being near a [[Crucible]].
 Also when you cast a spell that requires more Lytel (spell points) than your current capacity allows, you risk eroding your very soul. Immediately after casting the spell, you take **1d6 *Aetheric Erosion*.**
-[[Aetheric Erosion Table & Mental Effects]]
+[[Aetheric Erosion Table]]
 
 ### *Proficiency* 
 - ***Armor,*** if you are proficient you can use the armor without penalty (D.Adv on attacks, saves and skill checks).

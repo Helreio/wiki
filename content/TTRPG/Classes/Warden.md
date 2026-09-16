@@ -17,7 +17,7 @@ Only Leshy and Humans lineage.
 - **Tools:** Choose one from Healer’s Kit, Alchemy supplies or Calligrapher's supplies to gain Mastery II (+4).
 - **Saving Throws:** Mastery II (+4) with Willpower Saving Throws
 - **Skills:** Choose two skills to gain Mastery I (+2) from History, Intuition, Persuasion, Performance, Lore: Religion and Lore: Occultism. 
-- **Language:** Celestial Script
+- **Language:** [[Celestial Script]]
 
 **Starting Gold:** 6d6 x 10gp (average 210 gp)
 
@@ -25,7 +25,7 @@ Only Leshy and Humans lineage.
 - **Blessings of the Seven**
 You are a conduit of divine power able to perform small miracles. Choose three blessings from the *[[Blessings Spell List|Blessings List]]*.
 - **Lay on Hands** (Resource)
-Your blessed touch can heal wounds. You have a pool of healing power that replenishes when you take a *Long Rest*. With that pool, you can restore a total number of hit points equal to half your health point maximum (rounded up). 
+Your blessed touch can heal wounds. You have a pool of healing power that replenishes when you take a *Long Rest*. With that pool, you can restore a total number of hit points equal to half your health point maximum (rounded up).  ^5b92b8
 
 This pool is calculated every day at dawn. Any change to your health pool during the day (Eg. necrotic damage or increasing the maximum hit points via items or spells) will take effect the next morning if still active.
 
@@ -56,7 +56,7 @@ You gain access to the following abilities fueled by *Divine Favour*. You can ha
 **Smite (1 Divine Favour):** When you hit with a melee weapon attack you call upon radiant energy to smite your target, dealing an additional **1d6 radiant damage**. 
 
 **Consecrated Ground (2 Divine Favour):** With an action point you bless the surrounding ground (2-metre radius), consecrating the area for 1 minute. Enemies that start their turn or first time enter the area, they take **1d6 radiant damage.** 
-You can have only one area consecrated at a time.
+You can have only one area consecrated at a time. ^1a3b6c
 
 **Shield of Faith (2 Divine Favour):** As a *Reaction*, when you or a creature within 2 meters of you takes damage, you can reduce that damage by ***1d8 + your Charisma Modifier.***
 
@@ -97,46 +97,45 @@ You can use a holy symbol (An amulet) or a crosier (holy staff with a spiral end
 ### Weapons of the Faithful
 You gain access to the following weapons, choose one to specialize in and gain Mastery I (+2) with it. 
 
->**The Penitent Lash**
-	*(Chain Whip) (finesse, two-handed, reach(4m), exotic)* 
-	*(1d8 bludgeoning)*
-	**Unwieldy:** Attacks made against targets within 1 meter cost one additional Action Point as you struggle to gather the chain's slack.
->
+>[!warning] The Penitent Lash
+>*(Chain Whip) (finesse, two-handed, reach(4m), exotic)* 
+>*(1d8 bludgeoning)*
+>**Unwieldy:** Attacks made against targets within 1 meter cost one additional Action Point as you struggle to gather the chain's slack.
 >**Sweeping swath (2 Action Points)**
->	Strike all creatures in a 3-meter cone in front of you. Deals weapon damage dice + *Ability Modifier* bludgeoning damage. (Fire Paper, enchants or other effects apply)
+>Strike all creatures in a 3-meter cone in front of you. Deals weapon damage dice + *Ability Modifier* bludgeoning damage. (Fire Paper, enchants or other effects apply)
 >
 >**Shackle (1 Action Point)**
-	After hitting a creature with a weapon Attack roll, you can choose to restrain the target for an additional Action Point. The creature needs to do a Reflex Saving Throw vs the Attack roll, on a failed save the creature gains the *[[Conditions#Restrained|Restrained]]* condition. 
-	If a creature is restrained in this manner you can spend one Action Point to pull it 2 meters closer to you, or yank yourself toward it.
-	While maintaining the restrain you cannot attack with the weapon. 
-	Fire Paper, enchants or other effects apply automatically at the start of your turn. (if the target is still restrained in this manner)
+>After hitting a creature with a weapon Attack roll, you can choose to restrain the target for an additional Action Point. The creature needs to do a Reflex Saving Throw vs the Attack roll, on a failed save the creature gains the *[[Conditions#Restrained|Restrained]]* condition. 
+>If a creature is restrained in this manner you can spend one Action Point to pull it 2 meters closer to you, or yank yourself toward it.
+>While maintaining the restrain you cannot attack with the weapon. 
+>Fire Paper, enchants or other effects apply automatically at the start of your turn. (if the target is still restrained in this manner)
 
->**The Hound’s Tooth**
-	*(Sawcleaver) (finesse, serrated, exotic)* 
-	*(1d8 or 1d10 slashing, 2d6 bleeding)*	
-	**Serrated.** Attacks against organic, unarmored, or monstrous targets deal an additional 2d6 bleeding damage (This damage type bypasses natural armor and Physical damage Resistance).
+>[!warning] The Hound’s Tooth
+>*(Sawcleaver) (finesse, serrated, exotic)* 
+>*(1d8 or 1d10 slashing, 2d6 bleeding)*	
+>**Serrated.** Attacks against organic, unarmored, or monstrous targets deal an additional 2d6 bleeding damage (This damage type bypasses natural armor and Physical damage Resistance).
 >
 >***Saw Form*** *(1d8 slashing, 2d6 bleeding)*
-	**Rend** (1 Action Point)
-	After you hit and damage a creature, for one Action Point you rend the target dealing an additional 2d6 bleeding damage regardless if they are armored. 
-	**Flick (Transform)** (1 Action Point)
-	You swing out the blade with force. Switch the weapon immediately into Cleaver Mode and strike up to 3 enemies in front of you (that are Large or smaller), knocking them back 2 meters.
+>**Rend** (1 Action Point)
+>After you hit and damage a creature, for one Action Point you rend the target dealing an additional 2d6 bleeding damage regardless if they are armored. 
+>**Flick (Transform)** (1 Action Point)
+>You swing out the blade with force. Switch the weapon immediately into Cleaver Mode and strike up to 3 enemies in front of you (that are Large or smaller), knocking them back 2 meters.
 >
 >***Cleaver Form*** *(1d10 slashing, 2d6 bleeding) (reach(1m), two-handed)*
-	**Guillotine** (1/Turn) (1 Action Point) 
-	Make an weapon Attack roll as you bring the extended blade down in a vertical arc. This attack cannot be Blocked or Parried.
-	**Collapse (Transform)** (1 Action Point)
-	After hitting an enemy within range, you can choose to use the impact and pull yourself closer to them as you clamp the blade back shut into Saw Mode. You end up adjacent to the target.
+>**Guillotine** (1/Turn) (1 Action Point) 
+>Make an weapon Attack roll as you bring the extended blade down in a vertical arc. This attack cannot be Blocked or Parried.
+>**Collapse (Transform)** (1 Action Point)
+>After hitting an enemy within range, you can choose to use the impact and pull yourself closer to them as you clamp the blade back shut into Saw Mode. You end up adjacent to the target.
 
->**Condemnation**
-*(Large Crossbow) (finesse, ammunition (range 20/80m), two-handed, exotic)* 
-*(1d12 piercing)*
-**Winch Tension:** *[[Actions#Take Aim (1 action point)|Take Aim Action]]* increases your weapon damage by 2.
-**Heavy Counter-Weight:** You can use the *[[Actions#Parry (Reaction)|Parry Reaction]]* with this weapon. 
-**Math:** *1d12 + Ability Modifier.*
+>[!warning] Condemnation
+>*(Large Crossbow) (finesse, ammunition (range 20/80m), two-handed, exotic)* 
+>*(1d12 piercing)*
+>**Winch Tension:** *[[Actions#Take Aim (1 action point)|Take Aim Action]]* increases your weapon damage by 2.
+>**Heavy Counter-Weight:** You can use the *[[Actions#Parry (Reaction)|Parry Reaction]]* with this weapon. 
+>**Math:** *1d12 + Ability Modifier.*
 >
 >**Skewer** (1/Turn) (2 Action Points)
- You overdraw your crossbow to increase its power in an attempt to pin a creature to a piece of terrain (or ground if they are prone) with your next attack. If the attack hits, you deal damage and the creature needs to make a *Fortitude Saving Throw* or be skewered in place. Their *Movement* becomes 0 and on the start of their turn they need to do an *Athletics Check* against 10 + half the damage (rounded up) of the attack to free itself. 
+>You overdraw your crossbow to increase its power in an attempt to pin a creature to a piece of terrain (or ground if they are prone) with your next attack. If the attack hits, you deal damage and the creature needs to make a *Fortitude Saving Throw* or be skewered in place. Their *Movement* becomes 0 and on the start of their turn they need to do an *Athletics Check* against 10 + half the damage (rounded up) of the attack to free itself. 
 
 ### Tools of the Trade 
 The Church bestowed upon thee specialized tools in your hunt for heretics, koshmeras and creatures of darkness.

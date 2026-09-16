@@ -85,11 +85,11 @@ password:
 
 ---
 **Holy Water.** 
-	For one Action Point, you can douse the contents of this vial onto a creature within 1 meter of you or throw it up to 4 meters, shattering it on impact. In either case, make a ranged Attack against a target creature, treating the holy water as an improvised weapon. If the target is a fiend or undead, it takes **2d6 radiant damage**. ^ccc9eb
+	For one Action Point, you can douse the contents of this vial onto a creature within 1 meter of you or throw it up to 4 meters, shattering it on impact. In either case, make a ranged Attack against a target creature, treating the holy water as an improvised weapon. If the target is a [[Fiend]] or [[Undead]], it takes **2d6 radiant damage**. ^ccc9eb
 
 ---
 **Holy Oil.** 
-	Used for anointing during sermons and cleansing the burden of sin. For one Action Point, you can douse the contents of this vial onto a creature within 1 meter of you or throw it up to 4 meters, shattering it on impact. In either case, make a ranged Attack against a target creature, treating the holy oil as an improvised weapon. If the target is a fiend or undead, it takes **1d6 radiant damage**. 
+	Used for anointing during sermons and cleansing the burden of sin. For one Action Point, you can douse the contents of this vial onto a creature within 1 meter of you or throw it up to 4 meters, shattering it on impact. In either case, make a ranged Attack against a target creature, treating the holy oil as an improvised weapon. If the target is a [[Fiend]] or [[Undead]], it takes **1d6 radiant damage**. 
 	Applied to a weapon (or one piece of ammunition) it deals **1d6 radiant damage** for the next two attack. ^3469f3
 
 ---

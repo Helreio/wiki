@@ -1,8 +1,9 @@
 ---
 title:
 type:
+type_2:
 date:
-draft: false
+draft: true
 unlisted: true
 password:
 ---

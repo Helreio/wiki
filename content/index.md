@@ -2,14 +2,9 @@
 title: Light in a Darkened World
 date:
 draft: false
-unlisted: false
+unlisted: true
 password:
 type: index
-faction:
-location:
-race:
-gender:
-class:
 ---
 # Glossary v4.4
 
@@ -23,6 +18,7 @@ class:
 - [[Experience Points]]
 - [[Rest Mechanic]]
 - [[Conditions]]
+- [[Vision & Sight]]
 - [[Damage Types]]
 - [[Cover]]
 - [[Actions]]
@@ -31,7 +27,7 @@ class:
 ### Character
 - [[Character Creation]]
 - [Character Sheet](https://drive.google.com/open?id=1TeOGWWKrhew_WXpSL3i7kYQFnaY20VrX)
-- [[Lineage]]
+- [[TTRPG/Glossary/Lineage]]
 - [[Lytel Lode Implants]]
 - [[General Talents]]
 
@@ -63,20 +59,22 @@ class:
 - [[Adventuring Gear]]
 - [[Tools & Instruments]]
 - [[Consumables]]
+- [[Aludry Potions|Aludry Potions]]
 - [[Magic Item Appendix]]
+
+### Professions
+- [[Seidhr, The Art of Binding Names|Seidhr, The Art of Binding Names (Enchanting)]]
+- [[The Grand Codex of Aludry|The Grand Codex of Aludry (Alchemy)]]
 
 ### Spell Lists
 - [[Blessings Spell List|Blessings]]
 - [[Channel Divinity]]
 - [[Incantation Spell List|Incantations]]
-- [[Smite Spell List|Smite]]
+- [[Smite Spell List|Smites]]
 - [[Thaumaturge Spell List|Thaumaturge]]
-
-### Professions
-- Seidhr, The Art of Binding Names (Enchanting)
-- Aludry Potions (Alchemy)
 
 ### Systems
 - [[Hirelings & Henchmen]]
+- Downtime
 - [[Renown]]
 - [[Piety]]

@@ -27,5 +27,5 @@ tldr: Sensing celestial, elementals, fiends & undeads within range
 **Duration:** Sustained, up to 10 minutes
 
 #### Description
-For the duration, you know if there is a *celestial, elemental, fiend,* or *undead* within 6 meters of you, as well as where the creature is located. Similarly, you know if there is a place or object within 6 meters of you that has been magically *consecrated* or *desecrated*.
+For the duration, you know if there is a *[[Celestial]], [[Elemental]], [[Fiend]],* or *[[Undead]]* within 6 meters of you, as well as where the creature is located. Similarly, you know if there is a place or object within 6 meters of you that has been magically *consecrated* or *desecrated*.
 The spell can penetrate most barriers, but it is blocked by 30 cm of stone, 2.5 cm of common metal, a thin sheet of lead, or 1/2 meters of wood or dirt.

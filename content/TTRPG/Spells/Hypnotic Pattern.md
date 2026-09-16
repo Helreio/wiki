@@ -16,7 +16,7 @@ components:
   - S
 duration: Up to 1 minute
 sustained: true
-tier: I
+tier: III
 damage_type:
 conditions:
 tldr: AoE charm & incapacitated for the duration

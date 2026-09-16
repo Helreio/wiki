@@ -28,16 +28,16 @@ _Vul: Cold 3_ it adds extra 3 damage to the cold damage taken.
 
 ### Elements
 
-- **Acid:** The *[[Acid Splash]]* spell and the dissolving enzymes secreted by an ooze deal acid damage. For each 5 acid damage you take you ablate armor by 1.
+- **Acid:** The *[[Acid Splash]]* spell and the dissolving enzymes secreted by an [[Ooze|ooze]] deal acid damage. For each 5 acid damage you take, you ablate armor by 1.
 - **Cold:** The chill radiating from an ice spear, the *[[Ice Shard]]* spell and the frigid blast of winter deals cold damage.
 - **Fire:** Spells that conjure flames like *[[Burning Flames]], [[Flaming Ball]]*, objects or weapons on fire deal fire damage.
 - **Lightning:** *[[Lightning Arc]]* spell deals lightning damage or a lightning strike. 
 
 ### Holy & Unholy
 
-- **Radiant:** Radiant damage, dealt by a Lightkeeper's *[[Words of Radiance]]* incantation or a celestial’s smiting weapon, sears the flesh like fire and overloads the spirit with power.
-- **Necrotic:** Necrotic damage, dealt by certain undead and spells such as *[[Inflict Wounds]]*, withers matter and even the soul. Usually reduces the number of your maximum hit points until a Long Rest.
+- **Radiant:** Radiant damage, dealt by a Lightkeeper's *[[Words of Radiance]]* incantation or a [[Celestial|celestial's]] smiting weapon, sears the flesh like fire and overloads the spirit with power.
+- **Necrotic:** Necrotic damage, dealt by certain [[Undead|undead]] and spells such as *[[Inflict Wounds]]*, withers matter and even the soul. Usually reduces the number of your maximum hit points until a *Long Rest*.
 
 ### Arcane (Lytel)
 
-- **Arcane:** Arcane damage is dealt by touching the unfettered energies of the Cimmerian Conduits, Crucibles or powerful [[Vel’myr]] spells from the First & Second Age.
+- **Arcane:** Arcane damage is dealt by touching the unfettered energies of the Cimmerian Conduits, Crucibles or powerful [[Vel'myr]] spells from the First & Second Age.

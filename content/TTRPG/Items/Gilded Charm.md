@@ -11,7 +11,7 @@ attune: false
 arcane_focus:
 unique:
 component:
-curse:
+curse: false
 piety:
 rarity: Uncommon
 bonus:
@@ -27,4 +27,4 @@ Uncommon
 #### Description
 A small, golden pendant in the shape of a laughing face, carrying the essence of mischief.
 
-You can use this item three times per day to gain *Advantage* on *Charisma (Deception) Checks*.
+You can use this item three times per day to gain *Advantage* on *Deception Checks*.

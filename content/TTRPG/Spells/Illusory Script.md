@@ -37,4 +37,4 @@ To all others, the writing appears as if it were written in an unknown or magica
 
 Should the spell be dispelled, the original script and the illusion both disappear.
 
-A creature with *[[Truesight]]* can read the hidden message.
+A creature with *[[Vision & Sight#^190c8b|Truesight]]* can read the hidden message.

@@ -8,11 +8,11 @@ type: item
 item_type: hooded lantern
 class_specific:
 attune: false
-arcane_focus:
-unique:
-component:
-curse:
-piety:
+arcane_focus: false
+unique: false
+component: false
+curse: false
+piety: false
 rarity: Uncommon
 bonus: +2 to Intuition & Survival Checks
 damage_type:
@@ -27,7 +27,7 @@ Uncommon
 #### Description
 This lantern burns with pale blue flame that reveals what refuses to rest. For one Action Point you can light or extinguish the lantern. It emits bright light for 3 meters and dim light for an additional 3 meters. 
 While the lantern is active: 
-- Invisible undead (Wraiths, Banshees, etc) and spirits within 6 meters become visible. 
-- *+2 to Intuition & Survival Checks* to track Undead and Spirits.
+- Invisible [[Undead]] (Wraiths, Banshees, etc) and spirits within 6 meters become visible. 
+- *+2 to Intuition & Survival Checks* to track [[Undead]] and Spirits.
 
-*{Some souls never truly rest.}*
+*{Some souls never truly rest}*

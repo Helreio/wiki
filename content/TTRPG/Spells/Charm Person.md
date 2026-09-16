@@ -16,7 +16,7 @@ components:
   - S
 duration: 30 minutes
 sustained: false
-tier: I
+tier: II
 damage_type:
 conditions:
   - Charmed

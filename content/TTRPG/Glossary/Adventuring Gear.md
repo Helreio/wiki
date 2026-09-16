@@ -15,8 +15,10 @@ password:
 | -------------------------------------------- | ----- | ------- |
 | Arrows (20)                                  | 1 gp  | 0.3 kg. |
 | White Arrows<br>*(+1 to hit, +1 weapon die)* | 20 gp | 0.3 kg  |
+| Silvered Arrows                              | 10 gp | 0.3 kg  |
 | Crossbow bolts (20)                          | 1 gp  | 0.5 kg. |
 | Black Bolts<br>*(+1 to hit, +1 weapon die)*  | 20 gp | 0.5 kg  |
+| Silvered Bolts                               | 10 gp | 0.3 kg  |
 | Sling bullets (20)                           | 4 cp  | 0.5 kg. |
 
 | **Item**                                     | Cost   | Weight            |

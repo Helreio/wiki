@@ -26,6 +26,6 @@ Rare
 +2 to Intuition Checks
 
 #### Description
-A small green eye encased in crystal. It’s said to be the eye of the great wyrm Va’reth. 
+A small green eye encased in crystal. It’s said to be the eye of the great [[Wyrm|wyrm]] Va’reth. 
 
 **Set:** [[Gift of the Great Wyrm]]

@@ -41,6 +41,6 @@ views:
       - property: range
         direction: DESC
     columnSize:
-      file.name: 173
+      file.name: 238
 
 ```

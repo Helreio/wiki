@@ -33,5 +33,4 @@ tldr: Sphere that blocks verbal components and sounds
 You shift the air around a chosen point within range and vibrate the air in a 4-meter radius sphere. Choose one of the effects: 
 
 - **Distort.** Sounds inside the barrier are intelligible to anyone listening from the outside. 
-
 - **Silence.** The air resonates and deafens any creature inside the barrier. Casting a spell with verbal components is impossible inside the sphere. 

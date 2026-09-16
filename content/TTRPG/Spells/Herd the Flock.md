@@ -27,5 +27,5 @@ tldr: Move willing creatures towards you
 **Duration:** Instantaneous
 
 #### Description
-With the same authority that a shepherd calls his sheep back to him, you beckon your allies towards you. Choose a number of creatures up to your *Charisma Modifier (minimum of 1).* You move all willing creatures up their *Movement* towards you in a straight line. 
+With the same authority that a shepherd calls his sheep back to him, you beckon your allies towards you. Choose a number of creatures up to your *Charisma Modifier (minimum of 1).* You move all willing creatures towards you in a straight line. They move a number of meters equal to their *Movement.* 
 This movement does not cause *Opportunity Attacks*.

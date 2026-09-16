@@ -17,7 +17,7 @@ components:
   - M (a pinch of salt)
 duration: 8 hours
 sustained: false
-tier: III
+tier: IV
 damage_type:
 conditions:
 tldr: Create a great illusion of terrain

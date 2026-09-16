@@ -11,7 +11,7 @@ attune: true
 arcane_focus:
 unique: true
 component:
-curse:
+curse: false
 piety:
 rarity: Uncommon
 bonus: -2 Intelligence Score

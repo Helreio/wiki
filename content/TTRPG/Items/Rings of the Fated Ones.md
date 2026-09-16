@@ -11,7 +11,7 @@ attune: true
 arcane_focus:
 unique:
 component:
-curse:
+curse: false
 piety:
 rarity: Uncommon
 bonus:
@@ -28,12 +28,12 @@ Uncommon
 Two small adorned rings of arumvel and platinum.
 ==These items do not count against your attunement slots.==
 
->**Light of Dawn**
+>[!example] Light of Dawn
 *(attunement permanent or until death)* 
 You can focus your perception and know the direction and ~distance (in days) of the Light of Dusk wearer is from you.
 
->**Light of Dusk**
+>[!info] Light of Dusk
 *(attunement permanent or until death)* 
 You can focus your perception and know if the wearer of the Light of Dawn is alive.
 
-*{Two rings intertwined by fate, used by High Nobility to find their way from battle, back to their betrothed.}*
+*{Two rings intertwined by fate, used by High Nobility to find their way from battle, back to their betrothed}*

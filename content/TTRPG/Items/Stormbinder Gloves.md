@@ -11,7 +11,7 @@ attune: false
 arcane_focus:
 unique:
 component:
-curse:
+curse: false
 piety:
 rarity: Uncommon
 bonus:
@@ -26,4 +26,4 @@ Uncommon
 *(chain mittens)*
 
 #### Description
-When you hit with an *Unarmed Strike* or melee weapon attack, you can deal an additional **1d6 lightning damage.**
+When you hit with an *Unarmed Strike* or melee weapon attack, you deal an additional **1d6 lightning damage.**

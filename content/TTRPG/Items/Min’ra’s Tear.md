@@ -29,4 +29,4 @@ Rare
 A small blue crystal sphere with silvery light swirling inside. 
 Attuning to it increases the Lytel or Faith of the wielder. 
 
-*{Rána weeps for the death of all creatures.}*
+*{Rána weeps for the death of all creatures}*

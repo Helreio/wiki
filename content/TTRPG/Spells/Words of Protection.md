@@ -29,5 +29,5 @@ tldr: Protection against certain types of creatures
 
 #### Description
 Until the spell ends, one willing creature you touch is protected against certain types of creatures. 
-Choose one from *aberrations, fiends, koshmeras* or *undead*.
+Choose one from *[[Aberration|Aberrations]], [[Fiend|Fiends]], koshmeras* or *[[Undead]]*.
 The protection grants several benefits. Creatures of the chosen type have *Disadvantage* on attack rolls against the target. The target also can't be *[[Conditions#Charmed|Charmed]]*, *[[Conditions#Frightened|Frightened]],* or possessed by them. If the target is already charmed, frightened, or possessed by such a creature, the target has *Advantage* on any new *Saving Throw* against the relevant effect.

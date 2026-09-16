@@ -6,6 +6,7 @@ draft: false
 unlisted: false
 password:
 ---
+Talents that have ranks (II, III) requires the previous version of the talent.
 \[p] - passive, \[a] - active  
 
 ## Tier I - 10 Exp

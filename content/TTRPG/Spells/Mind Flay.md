@@ -31,4 +31,4 @@ tldr: You deal psychic damage and impose D.Adv
 **Duration:** Instantaneous
 
 #### Description
-You flay the mind of a creature within range. The target must succeed on a *Willpower Saving Throw* or take **2d6 Psychic damage** and have *Disadvantage* on the next saving throw it makes before the end of your next turn. On a success it takes only the damage.
+You flay the mind of a creature within range. The target must succeed on a *Willpower Saving Throw* or take **2d6 Psychic damage** and have *Disadvantage* on the next *Saving Throw* it makes before the end of your next turn. On a success it takes only the damage.

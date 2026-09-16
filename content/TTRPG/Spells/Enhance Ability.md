@@ -30,11 +30,7 @@ tldr: Adv. on Ability Checks up to 1 hour
 You touch a creature and bestow upon it a magical enhancement. Choose one of the following effects; the target gains that effect until the spell ends.
 
 - **Bull's Strength.** The target has *Advantage* on *Strength Checks*, and his or her carrying capacity doubles.
-
 - **Cat's Tenacity.** The target has *Advantage* on *Agility Checks*. It also doesn't take damage from falling 6 meters or fewer if it isn't *[[Conditions#Incapacitated|Incapacitated]]*.
-
 - **Eagle's Eyes.** The target has *Advantage* on *Intuition Checks*, and can see up to a kilometer away.
-
 - **Fox's Cunning.** The target has *Advantage* on *Intelligence Checks* to investigate, recall knowledge and survival tasks.
-
 - **Peacock’s Panache.** The target has *Advantage* on *Charisma Checks* made during social interactions.

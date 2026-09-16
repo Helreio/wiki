@@ -18,7 +18,7 @@ components:
   - M (Str’úm)
 duration: Instantaneous
 sustained: false
-tier: II
+tier: III
 damage_type:
   - Fire
 conditions:

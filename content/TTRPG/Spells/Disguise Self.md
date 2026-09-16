@@ -15,7 +15,7 @@ components:
   - V
 duration: 1 hour
 sustained: false
-tier: I
+tier: II
 damage_type:
 conditions:
 tldr: You disguise yourself with illusion magic

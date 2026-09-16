@@ -12,10 +12,10 @@ password:
 Roll 3d6’s for each Stat (A total minimum of 38 or reroll a new set). Standard array: 14, 11, 9, and 8.
 
 - **Lineage** 
-[[Lineage#Humans|Humans]], [[Lineage#Leshy (Half-breeds)|Leshy]], [[Lineage#Yfelkynn|Yfelkynn]]
+[[TTRPG/Glossary/Lineage#Humans|Humans]], [[TTRPG/Glossary/Lineage#Leshy (Half-breeds)|Leshy]], [[TTRPG/Glossary/Lineage#Yfelkynn|Yfelkynn]]
 
 - **Classes** 
-Warrior, Thaumaturge, Warden, Strix, Shaman
+[[Warrior]], [[Thaumaturge]], [[Warden]]
 
 - **Backgrounds**
 *Custom:* Any two skills (+ 1 Mastery Rank), and any one tool , kit or Instrument.

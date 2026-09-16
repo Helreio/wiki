@@ -15,15 +15,22 @@ password:
 - ### Pessek (+2,+1 to any stat)
 They originate from the red sands beyond the mountains, west of the Azak Empire. They live a nomad lifestyle.
 **Desert Strider.** Your movement is **not reduced by difficult terrain** caused by sand, loose gravel, or dry terrain. When you take the **Run/Charge** action, you can **move across vertical surfaces and difficult terrain without expending extra movement** until the end of your turn.
+**Language:** [[Pessekian]]
+**Gods:** [[The Sovereign of Dunes]]
 
 - ### **Azak** (+2,+1 to any stat)
 Pureblood citizens of the Azak Empire.
 **Imperial Discipline.** You gain a **Mastery I (+2)** in one of the following skills: Athletics, Intuition or Survival, if you already have mastery you increase the _Mastery Rank_ by 1. 
 When rolling _Initiative_, you add **1d4** to your roll.
+**Language:** [[Azakian]]
+**Gods:** [[The Heavenly Hosts]] 
 
+---
 # Leshy (Half-breeds)
 
 They are born from a communion of Humans and Leshen (tribes sired by Leshari in the Second Age). They have special characteristics based on their Leshen descent.
+**Language:** [[Leshen Script]]
+**Gods:** [[Leshari; Wild Gods|Leshari]]
 
 - ### **Cernos, the White Stag** (+1 to any stat)
 They are born to wander, their bodies built for relentless movement across endless terrain. Whether traversing dense forests or open plains, they move with an unnatural stamina, rarely tiring and always pressing forward.
@@ -62,9 +69,12 @@ A mystical being of song and enchantment, Sirin’s voice is said to bring both 
 - **Of Solace.** 
 	Your gentle melody steadies the spirit and rekindles resolve. For two _Action Points_, you raise your voice in a soft, comforting hymn. Creatures of your choice within 6 meters that can hear you are healed for 1d6 + _Charisma Modifier (min of 1)._ Any charm effect currently active on the chosen characters is rerolled with *Advantage*.
 
+---
 # Yfelkynn
 
-The Yfelkynn, or Evil Kin within the Azak Empire, are an ancient race of giants, their massive forms shaped by the unforgiving wilderness they call home. Though feared by many, they are survivors, bound by oaths and traditions. The most commonly seen are slaves serving the Azak nobility within the mines. But some have gained their freedom after the Leshy Revolution.
+The Yfelkynn, or Evil Kin within the Azak Empire, are an ancient race of giants, their massive forms shaped by the unforgiving wilderness they call home. Though feared by many, they are survivors, bound by oaths and traditions. The most commonly seen are slaves serving the Azak nobility within the mines. A few have bought their freedom after the Leshy Revolution.
+**Language:** [[Lore/Languages/Giant]]
+**Gods:** [[Myrakai; The Elemental Lords|Myrakai]]
 
 - ### Duskwalker (+1 Agi, +1 to any stat)
 **Appearance:** Lanky but powerful, their ashen-gray skin blends with the dusk. Their piercing, luminous eyes shift between hues of violet and green, and their long, matted hair carries the scent of rain.

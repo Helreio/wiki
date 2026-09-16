@@ -50,8 +50,8 @@ views:
       - property: description
         direction: ASC
     columnSize:
-      file.name: 242
-      note.tier: 40
+      file.name: 203
       note.casting_time: 158
+      note.tier: 40
 
 ```

@@ -1,6 +1,6 @@
 ---
 title: Rest Mechanic
-typr: rules
+type: rules
 date:
 draft: false
 unlisted: false

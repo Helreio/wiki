@@ -34,13 +34,13 @@ A sword made of holy fire blazes to life by your side. The size and shape of the
 Upon casting the spell or taking the *Sustain Action* you can command the blade to move & attack once during your turn. 
 As a *Reaction*, if the blade is within 1 meter of you, you can interpose it between yourself and the attack parrying the strike. Half of the parried damage (rounded up) is taken by the attacker as **radiant damage** if the attacker is within 1 meter or you.
 
->**Whirling Flame Sword**
+>[!error] Whirling Flame Sword
 >*(sword)*
 >*(2d6 fire + 2d6 radiant damage + Charisma Modifier)*
 **Movement (Levitate):** 8 meters 
 **To hit:** Your Spell attack modifier
 >
->**Rihtwīs Līġ.** Double damage against *undead* and *fiends*.
+>**Rihtwīs Līġ.** Double damage against *[[Undead]]* and *[[Fiend|Fiends]]*.
 **Bærn þæt flæsc.** On a *Critical Strike*, the target catches fire; the target takes **2d6 fire + 2d6 radiant damage** at the start of each of its turns until the spell ends, or the blade is unsummoned. 
 **Parry:** Weapon dice + spell attack modifier. (Works on range attacks)
 >

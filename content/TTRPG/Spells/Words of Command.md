@@ -27,7 +27,7 @@ tldr: Command a creature to do somthing.
 **Duration:** 1 round
 
 #### Description
-You speak a one-word command to a creature you can see within range. The target must succeed on a *Willpower Saving Throw* or follow the command on its next turn. The spell has no effect if the target is *undead*, if it doesn't understand your language, or if your command is directly harmful to it.
+You speak a one-word command to a creature you can see within range. The target must succeed on a *Willpower Saving Throw* or follow the command on its next turn. The spell has no effect if the target is *[[Undead]]*, if it doesn't understand your language, or if your command is directly harmful to it.
 
 Some typical commands and their effects:
 

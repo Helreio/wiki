@@ -2,7 +2,7 @@
 title: TemplateSpell
 type: spell
 type_2: necromancy
-draft: false
+draft: true
 unlisted: true
 password:
 school: Necromancy

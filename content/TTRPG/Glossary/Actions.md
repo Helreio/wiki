@@ -11,27 +11,39 @@ In a round on your turn you have 3 Action Points and one Reaction.
 ### Move (1 action point)
 A move action allows you to move your speed *(3 + Agility Modifier meters)* or perform an action that takes a similar amount of time like *Climbing, Swimming, Crawling* for half the speed (rounded up). Movement can be broken up in chunks, and taken in between other actions.
 
+**Standing Jump:** You can jump a distance equal to half your *Movement*. 
+
+**Long Jump:** If move a minimum of 2 meters prior to the jump you can clear a distance equal to your *Movement* minus the head start. 
+
+**High Jump:** You can leap upwards a number of meters equal to a fifth (1/5) of your *Movement*. 
+If you move 2 meters before jumping the height doubles (2/5 of *Movement*). Any increases to your *Movement* also increases this value.
+
+---
 ### Stand/Mount/Dismount (1 action point)
 Stand up from being Prone, mount or dismount a riding beast, enter or leave a vehicle, or move within a vehicle.
 
+---
 ### Run (3 action points)
 You can move up to 4x your _Movement_. You can Run for a number of rounds equal to your _Fortitude Modifier_, but after that you must make a _DC 10 Fortitude Save_ to continue running or gain the *[[Conditions#Fatigued|Fatigued]]*  condition for 1d4 rounds.
 
+---
 ### Charge (3 action points)
 Move up to 3x your Movement (moving towards an enemy), You can do one melee attack with an additional **+4** for that attack or relevant skill check (Eg. jump, grapple or shove).
 
-### Help (1 action point, reaction)
-
+---
+### Help (1 action point)
 ^61fb02
 
 ***Skill Check.*** You can lend your aid (if possible) to another creature in the completion of a task. When you take the Help Action, the creature you aid adds a **1d6** on the next skill check it makes to perform the task you are helping with.
 
 **_Combat._** You feint, distract a target (within 1 meter of you), or in some other way team up to make your ally's attack more effective. If your chosen ally attacks the target before your next turn, the first attack roll is made with an additional **1d6.** 
 
+---
 ### Parry (Reaction)
 ==Requires a melee weapon==
 When you are wielding a melee weapon and a creature hits you with a melee attack, you can use your reaction causing the attack to be parried and take reduced physical damage. The amount reduced is equal to the weapon's physical _damage die + Ability Modifier_ used by that weapon.
 
+---
 ### Shield Block (Reaction)
 ==Requires a Shield or Buckler==
 You can block an attack or an area effect, interposing your shield between you and the source of the effect.
@@ -40,20 +52,24 @@ You can block an attack or an area effect, interposing your shield between you a
 - **For Area of Effect** the *Shield Block* is done as a *Reaction* after the _Reflex Saving Throw_ required by the effect, reducing the damage taken by the Block value. *Eg. Acid Breath does 25 acid damage, Reflex Save successful, you take half (13), Shield Block reduces the damage taken by the Block value of the item (10). (Total damage taken is 3 acid damage).*
 - **Blocking a Critical Strike** damages the shield or buckler making the item unusable until it is repaired. Some items may be destroyed or have properties to mitigate this effect.
 
+---
 ### Opportunity Attacks (Reaction)
 ==Requires a melee weapon==
 You can make an opportunity Attack when a Hostile creature that you can see moves out of your melee range, uses the *[[#Stand/Mount/Dismount (1 action point)|Stand Action]]* within 1 meter (2 meters with a _reach_ weapon) of you or interacts with an object.
 
 - **_Drinking a potion_** is an object interaction and it triggers an _Opportunity Attack_ from enemies within 1 meter (2 meters with a _reach_ weapon).
 
+---
 ### Ready Action (x action points)
 You can take the _Ready Action_ on Your Turn, which lets you act using your _Reaction_ before the start of your next turn.
 
-First, you decide what perceivable circumstance will trigger your _Reaction_. Then, you choose the Action you will take in response to that trigger, or you choose to move up to your speed in response to it. You can have multiple _Ready Actions_ equal to the Action Points used.
+First, you decide what perceivable circumstance will trigger your _Reaction_. Then, you choose the Action you will take in response to that trigger, or you choose to move up to your speed in response to it. You can only have one _Ready Action_ prepared.
 
+---
 ### Hold Turn
 At the begining of your turn you can choose to skip your turn and take it later in initiative. You need to specify after which creature’s turn you want to go. Can be taken once per round.
 
+---
 ### Attack (1 action point)
 The most common Action to take in combat is the _Attack Action_, whether you are swinging a sword, firing an arrow from a bow, or brawling with your fists.
 With this Action, you make one melee or ranged Attack.
@@ -70,6 +86,7 @@ Aiming a ranged Attack is more difficult when a foe is next to you. When you mak
 **Unarmed strikes** a punch, kick, head--butt, or similar forceful blow (none of which count as weapons). You use _Strength or Agility Modifier_ for the attack. 
 On a hit, an Unarmed strike deals _1 bludgeoning damage + Strength or Agility Modifier_.
 
+---
 ### Grappling (1 action point)
 When you want to grab a creature or wrestle with it, you can make a Special melee Attack, a grapple. The target of your grapple must be no more than one size larger than you and must be within your reach. Using at least one free hand, you try to seize the target by making a grapple check.
 
@@ -80,27 +97,34 @@ With a second _Grappling Action_ you may attempt to *[[Conditions#Restrain|Restr
 
 **Moving a Grappled Creature:** When you move, you can drag or carry the Grappled creature with you, but your Movement is halved, unless the creature is one or more sizes smaller than you.
 
+---
 ### Shove (1 action point)
 You can make a Special melee Attack to shove a creature, either to knock it prone or push it away from you.
 
 The target must be no more than one size larger than you and must be within your reach. You make a _Strength (Athletics) check_ contested by the target’s _Strength (Athletics)_ or _Agility (Acrobatics) check_ (the target chooses the ability to use). If you win the contest, you either knock the target *[[Conditions#Prone|Prone]]* or push it 1 meter away from you.
 
+---
 ### Take Aim (1 action point)
 ==Requires a ranged weapon== 
 You steady yourself while wielding a ranged weapon to gain a **+1 crit range bonus** for the next ranged attack roll. You can benefit from this action up to three times to a max crit range of **17-20 crit range.** If you move (willing or unwilling) you lose the benefit.
 
+---
 ### Disarm (1 action point)
 You do a modified attack to disarm a creature holding a weapon or object. Opposed melee attack against the target's _Athletics (Strength)_ or _Acrobatics (Agility)._ If successful your target drops the weapon or object it's holding.
 
+---
 ### Defensive Stance (2 action points)
 When you take a Defensive Stance, you focus entirely on avoiding attacks. Until the start of your next turn, any Attack roll made against you has *Disadvantage* if you can see the attacker, and you make any _Reflex Saving Throws_ with *Advantage*. You lose this benefit if you are *[[Conditions#Incapacitated|Incapacitated]]* or if your speed drops to 0.
 
+---
 ### Disengage (1 action points)
 If you take the _Disengage Action_, your Movement doesn’t provoke _Opportunity Attacks_ for the rest of the turn.
 
+---
 ### Hide (1 action points)
 When you take the Hide Action, you make a _Stealth/Hide (Agility) check_ in an attempt to hide. You need to break line of sight from the target and the check needs to be higher than the passive Intuition of the creature to gain any benefit.
 
+---
 ### Cast a Spell (2 action points)
 Most spells require one or two Action points to cast. You can cast such a spell either before or after you take any other Action on your turn.
 
@@ -119,6 +143,7 @@ Many magic items need to be activated, especially potions, wands, rods, and staf
 **Attunement to items** 
 It takes three _Action Points_ to attune, and it takes 10 minutes to unattune from an item, if not specified otherwise. While the item remains separated from you, you retain a persistent sense of its direction.
 
+---
 ### Free Actions
 Free actions consume a very small amount of time and effort. You can perform one or more free actions while taking another action normally. However, there are reasonable limits on what you can really do for free. Some common free actions are described below.
 

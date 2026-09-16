@@ -27,6 +27,6 @@ tldr: Healing
 **Duration:** Instantaneous
 
 #### Description
-A willing creature you touch regains a number of hit points equal to *1d8 + your Charisma Modifier.* This spell has no effect on undead or constructs.
+A willing creature you touch regains a number of hit points equal to *1d8 + your Charisma Modifier.* This spell has no effect on [[Undead]] or [[Construct|Constructs]].
 
 **Empower.** The healing increases by *1d8* for each two additional faith points used.(up to a maximum equal to your *Charisma Modifier*).

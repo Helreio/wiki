@@ -6,7 +6,8 @@ draft: false
 unlisted: false
 password:
 ---
-==Specialization Talents can only be taken once.==
+==Specialization Talents can only be taken once==
+Talents that have ranks (II, III) requires the previous version of the talent.
 \[p] - passive, \[a] - active
 
 ## Tier I - 20 Exp

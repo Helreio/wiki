@@ -2,7 +2,7 @@
 title:
 type:
 date:
-draft: false
+draft: true
 unlisted: true
 password:
 ---

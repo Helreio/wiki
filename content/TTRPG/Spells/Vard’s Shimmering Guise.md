@@ -29,4 +29,4 @@ tldr: You are harder to hit with attacks
 **Duration:** Sustained, up to 1 minute
 
 #### Description
-Your body shimmers and wavers for the duration, any creature has *Disadvantage* on attack rolls against you. An attacker is immune to this effect if it perceives you with *[[Blindsight]], [[Witchsight]]* or *[[Truesight]]*.
+Your body shimmers and wavers for the duration, any creature has *Disadvantage* on attack rolls against you. An attacker is immune to this effect if it perceives you with *[[Fighting Style#Heightened Awareness|Blindsight]], [[Vision & Sight#^4d7111|Witchsight]]* or *[[Vision & Sight#^190c8b|Truesight]]*.

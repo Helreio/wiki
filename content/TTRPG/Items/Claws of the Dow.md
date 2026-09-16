@@ -11,7 +11,7 @@ attune: false
 arcane_focus:
 unique: true
 component:
-curse:
+curse: false
 piety:
 rarity: Uncommon
 bonus:
@@ -31,4 +31,4 @@ When you do an *Unarmed Strike*, you deal **1d6 + *Agility & Strength Modifier* 
 
 You gain climbing speed equal to your *Movement*, and you can remain attached to a surface for 1 min.
 
-*{Act before you think. - Blackdow, the Barbarian}* 
+*{"Act before you think." - Blackdow, the Barbarian}* 

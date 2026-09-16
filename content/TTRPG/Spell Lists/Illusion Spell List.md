@@ -45,7 +45,8 @@ views:
       - property: range
         direction: DESC
     columnSize:
-      file.name: 173
+      file.name: 254
       note.casting_time: 177
+      note.tldr: 208
 
 ```

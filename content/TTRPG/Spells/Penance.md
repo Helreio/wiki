@@ -33,7 +33,6 @@ You release three motes of radiant light from your palm, choosing to either heal
 For each mote, choose whether to heal an ally or harm an enemy.
 
 - **Heal.** When you choose an ally, the mote heals the target for 1*d8 + your Charisma Modifier*.
-
 - **Harm.** When you choose an enemy, make a ranged spell attack against the target. On a hit, the mote deals **1d6 + your *Charisma Modifier* radiant damage**.
 
 You can choose a mix of allies and enemies as targets, as long as you don't exceed three total targets. You can also choose the same target multiple times.

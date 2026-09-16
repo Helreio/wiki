@@ -35,4 +35,4 @@ You charge yourself with static charges and any melee attack that hits you shock
 
 As a *Reaction*, you can discharge the built-up static energy around yourself. Each creature within 1 meter of you must make a *Reflex Saving Throw* and take **1d10 lightning damage** on a failed save or half as much damage on a success. 
 
-**Empower.** When using this reaction you can spend 2 additional lytel to inflict the *[[Conditions#Shocked|Shocked]]* condition on a failed save. 
+**Empower.** When using this reaction you can spend 2 additional lytel to inflict the *[[Conditions#Shocked|Shocked]]* condition on a failed save (until the start of your next turn). 

@@ -1,14 +1,14 @@
 ---
 title:
 date:
-draft: false
+draft: true
 unlisted: true
 password:
 type:
 type_2:
 faction:
 location:
-description: ""
+tldr: ""
 race:
 gender:
 class:

@@ -11,7 +11,7 @@ attune: false
 arcane_focus: true
 unique:
 component:
-curse:
+curse: false
 piety:
 rarity: Uncommon
 bonus:

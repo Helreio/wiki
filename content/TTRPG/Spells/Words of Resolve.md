@@ -26,5 +26,5 @@ tldr: Temp Hp for allies for 1 hour
 **Duration:** 1 hour
 
 #### Description
-You remind your allies of the perseverance that will be required of them. Up to six creatures you can see within range gains temporary hit points equal to *2d10 + your Charisma Modifier*. This spell has no effect on undead or constructs. 
+You remind your allies of the perseverance that will be required of them. Up to six creatures you can see within range gains temporary hit points equal to *2d10 + your Charisma Modifier*. This spell has no effect on [[Undead]] or [[Construct|Constructs]]. 
 The temporary hit points last for 1 hour.

@@ -29,6 +29,6 @@ tldr: Area denial vs Undead, Consecrated Graound
 
 #### Description
 Divine energy spreads outwards from a point you touch on the ground to fill up to a 7-meter radius circle for the duration. The energy spreads around corners. For the duration, creatures of your choosing within the circle have Advantage on *Willpower Saving Throws* and *Skill Checks*. 
-An undead creature must succeed on a *Willpower Saving Throw* to willingly enter the area, and suffers *Disadvantage* on *Willpower Saving Throws* and *Skill Checks* while inside the area.
+An [[Undead]] creature must succeed on a *Willpower Saving Throw* to willingly enter the area, and suffers *Disadvantage* on *Willpower Saving Throws* and *Skill Checks* while inside the area.
 
 When the spell ends, the area is blessed by positive energy and becomes *Consecrated Ground* for 1 hour. If the area contains an altar, shrine, or other permanent fixture devoted to a deity, pantheon, or higher power with ideals vastly different from those represented by the holy symbol used in the casting, it is destroyed.

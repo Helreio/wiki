@@ -2,7 +2,7 @@
 title: TemplateSmite
 type: spell
 type_2: smite
-draft: false
+draft: true
 unlisted: true
 password:
 school:

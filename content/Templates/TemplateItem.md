@@ -1,7 +1,7 @@
 ---
 title: TemplateItem
 date:
-draft: false
+draft: true
 unlisted: true
 password:
 type: item
@@ -13,7 +13,7 @@ unique: false
 component: false
 curse: false
 piety: false
-rarity: Rare
+rarity: Mythic
 bonus:
 damage_type:
 uses:
@@ -21,7 +21,7 @@ location:
 set:
 tldr: ""
 ---
-Rare
+Mythic
 *(ring) (unique)*
 
 #### Description

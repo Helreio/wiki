@@ -6,7 +6,8 @@ draft: false
 unlisted: false
 password:
 ---
-==Specialization Talents can only be taken once.==
+==Specialization Talents can only be taken once==
+Talents that have ranks (II, III) requires the previous version of the talent.
 \[p] - passive, \[a] - active
 
 ## Tier I - 20 Exp
@@ -67,4 +68,4 @@ password:
 
 ---
 - **\[a] Vanish** (3 Edge) (1/SR) - During your turn for one Action Point and three Edge you vanish from sight and gain the *[[Conditions#Invisible|Invisible]]* condition for 1 minute. 
-	Any weapon attack or Action breaks the effect.
+	Any weapon attack or interact Action breaks the effect. 

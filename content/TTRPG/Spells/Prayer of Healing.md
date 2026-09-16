@@ -19,14 +19,14 @@ conditions:
 tldr: Out of combat healing
 ---
 *Necromancy*
-**Faith:** 
+**Faith:** 6 points
 **Casting Time:** 10 minutes
 **Range:** 6 meters
 **Components:** V
 **Duration:** Instantaneous
 
 #### Description
-Up to six creatures of your choice that you can see within range each regain hit points equal to *2d8 + your Charisma Modifier.* 
-This spell has no effect on undead or constructs.
+Up to six creatures of your choice that you can see within range each regain hit points equal to *3d8 + your Charisma Modifier.* 
+This spell has no effect on [[Undead]] or [[construct|constructs]].
 
-**Empower.** Using an additional 4 faith points to cast this spell, the healing increases to *4d8 + Charisma Modifier.*
+**Empower.** Using an additional 4 faith points to cast this spell, the healing increases by *3d8*.

@@ -31,7 +31,7 @@ tldr: Protection against creature celestial, elementals or fiends
 **Duration:** Sustained, up to 10 minutes
 
 #### Description
-One willing creature you touch is protected against creatures that are *celestials, elementals* or *fiends*. 
+One willing creature you touch is protected against creatures that are *[[Celestial|Celestials]], [[Elemental|Elementals]]* or *[[Fiend|Fiends]]*. 
 
 Creatures of those types have *Disadvantage* on attack rolls against the target. The target also can't be possessed by or gain the *[[Conditions#Charmed|Charmed]]* or *[[Conditions#Frightened|Frightened]]* conditions from them. If the target is already possessed, charmed, or frightened by such a creature, the target has *Advantage* on any new saving throw against the relevant effect.
 

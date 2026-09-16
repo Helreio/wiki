@@ -33,12 +33,12 @@ tldr: Summon a Phantasmal Blade and deal psychic damage on attacks
 #### Description
 You weave together threads of lytel to create an illusionary sword in your hand. It counts as a simple melee weapon.
 
->**Phantasmal Blade** 
+>[!example] Phantasmal Blade 
 >*(sword)*
 >*(finesse, light, thrown (4/12m))*
 >*(2d8 + Spellcasting Modifier psychic)*
->
->**To Hit:** *Spell Attack Modifier* 
+>**To Hit:** *Spell Attack Modifier*
+> 
 >In addition, when you use the sword to attack a target, they are unable to *Parry* or *Block* the attack.
 
 If you drop the weapon or throw it, it dissipates at the end of the turn. Thereafter, while the spell persists, you can cause, as part of the *Sustain Action*, the sword to reappear in your hand.

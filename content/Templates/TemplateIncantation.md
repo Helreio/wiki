@@ -2,7 +2,7 @@
 title: TemplateIncantation
 type: spell
 type_2:
-draft: false
+draft: true
 unlisted: true
 password:
 school:

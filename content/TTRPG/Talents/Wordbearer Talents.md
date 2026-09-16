@@ -6,7 +6,8 @@ draft: false
 unlisted: false
 password:
 ---
-==Specialization Talents can only be taken once.==
+==Specialization Talents can only be taken once==
+Talents that have ranks (II, III) requires the previous version of the talent.
 \[p] - passive, \[a] - active
 
 ## Tier I - 20 Exp 
@@ -37,18 +38,18 @@ password:
 	Can be used once per Short Rest. (1/SR) 
 
 ---
-- **\[p] Judgment** - Your normal Smite dice increase from a *d6* to a *d8*. 
+- **\[p] Judgment** - Your normal *Smite* dice increase from a *d6* to a *d8*. 
 
 ---
 - **\[p] Divine Knowledge** - You can choose one *[[Incantation Spell List|Incantation]]* from Tier I - II. 
-	You can cast it for free once per Short Rest. (1/SR) 
+	You can cast it once per Short Rest. (1/SR) 
 
 ---
 - **\[p] Righteous Indignation** - Upon entering combat you start with three *Divine Favour* to aid your fight against the heathens.
 
 ---
 - **\[a] Divine Sense** (1/SR) - The presence of strong evil registers on your senses like a noxious odor, and powerful good rings like heavenly music in your ears. 
-	For one Action Point, you can open your awareness to detect such forces. Until the end of your next turn, you know the location of any celestial, fiend, or undead within 12 meters of you that is not behind total cover. 
+	For one Action Point, you can open your awareness to detect such forces. Until the end of your next turn, you know the location of any [[Celestial]], [[Fiend]], or [[Undead]] within 12 meters of you that is not behind total cover. 
 
 ---
 - **\[p] Bulwark II** - Any use of Shield Block generates Divine Favour, even Shield Block without using a Reaction.

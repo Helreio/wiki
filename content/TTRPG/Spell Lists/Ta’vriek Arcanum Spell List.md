@@ -51,7 +51,7 @@ views:
         direction: ASC
     columnSize:
       file.name: 242
+      note.casting_time: 122
       note.tier: 40
-      note.casting_time: 158
 
 ```

@@ -16,7 +16,7 @@ components:
   - M (a shard of glass)
 duration: Instantaneous
 sustained: false
-tier: I
+tier: II
 damage_type:
 conditions:
   - Blinded

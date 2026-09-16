@@ -38,7 +38,7 @@ You can choose one of the specializations below. 
 
 ### Tactical Dice (Resource) 
 You have a pool of *four Tactical Dice* and you can use them on *Battle Maneuvers*, all maneuvers cost one tactical die if not specified otherwise. 
-- You regain all of your expended tactical dice when you finish a Short Rest. These dice are **d8’s.** 
+- You regain all of your expended tactical dice when you finish a Short Rest. These dice are **d8’s.** If they are added to damage and you *Critical Strike* this dice is also doubled.
 - *Action Surge* grants *two Tactical Dice*, and if it exceeds the limit, you gain them temporarily until the end of your turn.
 - Your save *DC is 10 + Ability Modifier used by the weapon*. 
 
@@ -68,6 +68,7 @@ Ammo consumed is equal to how many targets are in the 3x3 area.
 
 **Tools:** Choose one from Thieves' tools, Disguise kit, Forgery Kit and Poisoner’s Kit. You gain Mastery I (+2) with the chosen kit.
 **Camouflage:** *Advantage* on Stealth/Hide Checks while in dim light or shadows. 
+**Language:** [[Thieves' cant]]
 
 ### Edge (Resource)
 
@@ -79,6 +80,6 @@ Can be used on the following:
 - **1 Edge:** During your turn you can use Stealth/Hide Action or Stand Action as a Free Action by spending one Edge.
 - **1 Edge:** After attacking with a weapon you can reposition yourself up to half your *Movement* (rounded up).
 - **1 Edge:** When you have *Advantage* on attack rolls or a conscious ally within 1 meter of your target, you can spend one Edge to find the weak spot within their defenses, ignoring any *Armor (Ar)* for that attack.
-- **1 Edge:** After hitting with a weapon Attack, you can spend one Edge to find a *Vital Spot*, dealing one additional weapon damage die.
+- **1 Edge:** After hitting with a weapon Attack, you can spend one Edge to find a *Vital Spot*, dealing one additional weapon damage die. These dices are not doubled on *Critical Strikes*. 
  
 [[Assassin Talents|Specialization Talents]]

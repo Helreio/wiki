@@ -31,4 +31,4 @@ tldr: You hide an object or creature from divination spells
 **Duration:** 8 hours
 
 #### Description
-For the duration, you hide a target, object or place (no larger than 2 meters) that you touch from Divination magic (*[[Scrying]], [[Divine Sense]]*). 
+For the duration, you hide a target, object or place (no larger than 2 meters) that you touch from Divination magic (*[[Scrying]], [[Divine Sense]]* etc). 
