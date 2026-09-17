@@ -1,0 +1,9 @@
+views:
+  - type: cards
+    name: Table
+    filters:
+      and:
+        - file.inFolder("Lore/Layers of the World")
+    image: note.thumbnail
+    cardSize: 200
+    imageAspectRatio: 1.1

@@ -12,6 +12,8 @@ type: index
 [[Azak Enpire & Pessek Kalifate Map|Pessek Kalifate & Azak Empire Map]]
 
 ### Rules
+![[Untitled.base]]
+
 - [[Stats & Skills]]
 - [[Saving Throws]]
 - [[Evasion Class, Armor & Weapons]]

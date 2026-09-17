@@ -6,12 +6,7 @@ unlisted: true
 password:
 type: lore
 type_2: planes
-faction:
-location:
-tldr: ""
-race:
-gender:
-class:
+thumbnail: Layers World.jpg
 ---
 > [!Cosmic map|!clean no-i right]
 > ![[Layers World.jpg|300]]

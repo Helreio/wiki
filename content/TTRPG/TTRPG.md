@@ -3,7 +3,7 @@ title: TTRPG
 type: rules
 type_2:
 date:
-draft: false
+draft: true
 unlisted: true
 password:
 ---
